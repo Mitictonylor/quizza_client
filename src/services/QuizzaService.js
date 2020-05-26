@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:3000/api/quizza/';
+const baseUrl = 'https://quizza-server.herokuapp.com/api/quizza/';
 
 export default {
   getScores() {
